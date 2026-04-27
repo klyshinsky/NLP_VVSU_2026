@@ -12,4 +12,9 @@
 
 [Лекция 3, пара 2](https://github.com/klyshinsky/NLP_VVSU_2026/blob/main/Lecture_6_Topic_Modelling.ipynb) - Тематическое моделирование.
 
-[Лекция 4, пара 1](https://github.com/klyshinsky/NLP_VVSU_2026/blob/main/Lecture_7_Reduce_Space.ipynb) - Преобразование признаков, сокращение размерноси пространства признаков.
+[Лекция 4, пара 1](https://github.com/klyshinsky/NLP_VVSU_2026/blob/main/Lecture_7_Reduce_Space.ipynb) - Преобразование признаков, сокращение размерности пространства признаков.
+
+[Лекция 4, пара 1](https://github.com/klyshinsky/NLP_VVSU_2026/blob/main/Lecture_8_Classification.ipynb) - Методы классификации.
+
+[Лекция 4, пара 2](https://github.com/klyshinsky/NLP_VVSU_2026/blob/main/Lecture_9_Ensemble.ipynb) - Ансамблевые методы классификации.
+
