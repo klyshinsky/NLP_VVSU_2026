@@ -21,3 +21,5 @@
 [Лекция 5, пара 1](https://github.com/klyshinsky/NLP_VVSU_2026/blob/main/Lecture_10_W2V_Bert.ipynb) - Векторизация текстов при помощи нейросетевых моделей.
 
 [Лекция 5, пара 2](https://github.com/klyshinsky/NLP_VVSU_2025/blob/main/Lecture_11_MLP.ipynb) - Многослойный персептрон.
+
+[Лекция 6, пара 1, 2](https://github.com/klyshinsky/NLP_VVSU_2025/blob/main/Lecture_12_CNN_RNN.ipynb) - Сверточные и рекуррентные нейронные сети.
